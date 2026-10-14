@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pattio-v5';
+const CACHE_NAME = 'my-budget-v4-pattio-20261013';
 const APP_FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', event => {
   event.waitUntil((async () => {
